@@ -1,4 +1,4 @@
-# Build Your Own World Design Document
+# Design Document
 
 **Partner 1: Cyrus Lee**
 
