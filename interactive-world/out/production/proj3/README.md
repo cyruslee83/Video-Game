@@ -1,8 +1,8 @@
-# Build Your Own World Design Document
+# Design Document
 
-**Partner 1: Liren Chen**
+**Partner 1: Cyrus Lee**
 
-**Partner 2: Cyrus Lee**
+**Partner 2: Liren Chen**
 
 ## Classes and Data Structures
 - ###GenerateWorld: Deprecated class used to generate world
